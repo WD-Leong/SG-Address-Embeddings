@@ -15,4 +15,4 @@ After the model is trained, open the notebook `infer_postal_codes_word.ipynb` to
 
 The figure below shows the embeddings of the above 4 postal clusters, with "01" being red, "04" being orange, "08" being "green" and "11" being "blue". As can be observed, there is some degree of separation among the 4 clusters.
 
-![tsne_address_embeddings](TSNE Address Embeddings.jpg)
+![tsne_address_embeddings](TSNE_Address_Embeddings.jpg)
